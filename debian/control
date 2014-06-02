@@ -15,5 +15,6 @@ Standards-Version: 3.9.4
 Package: sdwdate-plugin-anon-shared-streamiso
 Architecture: all
 Depends: sdwdate, ${misc:Depends}
+Suggests: sdwdate-plugin-anon-shared-con-check
 Description: Sdwdate Stream Isolation Plugin for Anonymity Distributions
  Sets sdwdate's proxy settings to socks 192.168.0.10:9108.
