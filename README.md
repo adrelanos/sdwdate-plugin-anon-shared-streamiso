@@ -1,6 +1,6 @@
 # Sdwdate Stream Isolation Plugin for Anonymity Distributions #
 
-Sets sdwdate's proxy settings to socks 192.168.0.10:9108.
+Sets sdwdate's proxy settings to socks 10.152.152.10:9108.
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
