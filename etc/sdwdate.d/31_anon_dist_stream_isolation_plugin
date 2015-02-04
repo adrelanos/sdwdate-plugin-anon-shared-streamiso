@@ -8,4 +8,4 @@
 
 ## Bash Fragment.
 
-PROXY="10.152.152.10:9108"
+PROXY="socks5h://user:password@10.152.152.10:9108"
