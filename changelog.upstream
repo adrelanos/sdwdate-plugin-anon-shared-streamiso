@@ -1,3 +1,27 @@
+commit 7c5ea8357536547c15e29fccded2fedd935a1038
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Mar 24 17:26:48 2015 +0000
+
+    updated makefile generic to version 1.4
+
+commit ef29ce56ff77910963b1e2df4e518f9f7e08bf44
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 6 22:24:21 2015 +0000
+
+    update for newer sdwdate
+
+commit 7a8983187169110874d1622291305f0678c10fa3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Feb 4 14:31:16 2015 +0000
+
+    instead of --socks5-hostname, use more modern --proxy + user:password@ip:port syntax for curl for better stream isolation - https://phabricator.whonix.org/T126
+
+commit d134ca0991994fa8f93c388977a83bc5158bb20f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Feb 4 00:56:32 2015 +0000
+
+    bumped changelog version
+
 commit facac62f1a517bc1a94639fd0315bf9d3ea1322b
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Feb 4 00:44:59 2015 +0000
