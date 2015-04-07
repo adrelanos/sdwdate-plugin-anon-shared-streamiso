@@ -1,3 +1,9 @@
+sdwdate-plugin-anon-shared-streamiso (3:0.8-1) unstable; urgency=low
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Tue, 07 Apr 2015 17:42:45 +0000
+
 sdwdate-plugin-anon-shared-streamiso (3:0.7-1) unstable; urgency=low
 
   * New upstream version (local package).
